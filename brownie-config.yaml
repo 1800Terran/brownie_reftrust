@@ -1,0 +1,9 @@
+dotenv: .env
+
+wallets:
+  from_key: ${RINKEBY_1_PK}
+  test_user_1: ${RINKEBY_2_PK}
+  test_user_2: ${RINKEBY_3_PK}
+  test_user_3: ${RINKEBY_4_PK}
+
+
